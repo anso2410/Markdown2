@@ -1,9 +1,8 @@
- # Bonjour !
-je m'appelle <h1> Anne-Sophie<h1>.
-voici un lien pour le [Markdown syntax](https://www.markdownguide.org).
+  Bonjour !
+je m'appelle  Anne-Sophie.<br><br>
+voici un lien pour le [Markdown syntax](https://www.markdownguide.org).<br>
  apprentissage du Makdown :smile:
-
- dans le cadre de la formation web developper a Liége 
+ dans le cadre de la formation web developper a Liége.
 
 
 mail : <as@gmail.com>.
